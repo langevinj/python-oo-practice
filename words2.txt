@@ -1,0 +1,8 @@
+dog
+cat
+# beverage
+# colors
+
+beer
+
+pineapple
